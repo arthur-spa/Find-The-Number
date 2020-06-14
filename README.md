@@ -1,4 +1,4 @@
-# Find-The-Number
+# Find-The-Number :rocket: 
 
 Very simple python program.Play to the "Find the number" game.
 
